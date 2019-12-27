@@ -2,7 +2,7 @@
 
 # tensorflow-gpu has been used.
 
-# My computer specifications:
+My computer specifications:
 core i5-7200u, Nvidia 940MX(2GB), 8 Gigabytes of RAM
 
 1. We have used FLickr8k_Dataset for training and testing our model which contains 8000 different images with 5 captions per image.
